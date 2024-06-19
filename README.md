@@ -27,7 +27,7 @@
 - Vẽ bằng Microsoft Whiteboard có sẵn trong Teams. 
     ![image](https://github.com/neittien0110/template/assets/8079397/ef1fae39-690b-4431-a5d0-d401af0e0bb8)
 
-- Hoặc vẽ sở đồ Sequence Diagram bằng Markdown. [Cú pháp vẽ đồ thị bằng markdown](https://mermaid.js.org/syntax/sequenceDiagram.html), [Vẽ online sinh code markdown 1](https://mermaid.live/), [Vẽ online sinh code markdown 2](https://sequencediagram.org/)
+- Hoặc vẽ sở đồ Sequence Diagram bằng Markdown. [Cú pháp vẽ đồ thị bằng markdown](https://mermaid.js.org/syntax/sequenceDiagram.html), [Vẽ online sinh code markdown 1](https://mermaid.live/), [Vẽ online sinh code markdown 2](https://sequencediagram.org/), [Các mẫu diagram và markdown tương ứng](https://sequencediagram.org/instructions.html)
   ```mermaid
     sequenceDiagram
       User->Device: Đặt tay lên cảm biến SpO2
