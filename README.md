@@ -1,4 +1,4 @@
-# Mẫu viết tài liệu báo cáo cho các môn học đò án 
+# Mẫu viết tài liệu báo cáo cho các môn học đồ án 
 
 ## Giới thiệu
 
